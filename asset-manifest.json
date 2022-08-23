@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portofolio-website/static/css/main.4149d8a9.css",
+    "main.js": "/portofolio-website/static/js/main.447efefc.js",
+    "static/media/me.png": "/portofolio-website/static/media/me.0a2e1bee66ef40057356.png",
+    "static/media/CVMBKM.pdf": "/portofolio-website/static/media/CVMBKM.ae4be1a2208284054dc2.pdf",
+    "static/media/me-about.jpg": "/portofolio-website/static/media/me-about.dc65313c9b56e93dafd9.jpg",
+    "static/media/DS1.png": "/portofolio-website/static/media/DS1.16fe22e6e189dd17f05f.png",
+    "static/media/GebyogWeddingArt.png": "/portofolio-website/static/media/GebyogWeddingArt.14e2bf03a9853de43ce2.png",
+    "static/media/DaraWedding.png": "/portofolio-website/static/media/DaraWedding.41e42056ec69bc0ac7a3.png",
+    "static/media/BussinesStrategy.png": "/portofolio-website/static/media/BussinesStrategy.a9ca575f55a064f7d4a1.png",
+    "static/media/EmokaKatalog.png": "/portofolio-website/static/media/EmokaKatalog.9e086875000fbd5eb2b7.png",
+    "static/media/RenscoApp.png": "/portofolio-website/static/media/RenscoApp.563423b17c09c2d5dbf4.png",
+    "index.html": "/portofolio-website/index.html",
+    "main.4149d8a9.css.map": "/portofolio-website/static/css/main.4149d8a9.css.map",
+    "main.447efefc.js.map": "/portofolio-website/static/js/main.447efefc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4149d8a9.css",
+    "static/js/main.447efefc.js"
+  ]
+}
