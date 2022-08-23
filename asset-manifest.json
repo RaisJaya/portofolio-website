@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portofolio-website/static/css/main.9e485601.css",
+    "main.css": "/portofolio-website/static/css/main.3cce0550.css",
     "main.js": "/portofolio-website/static/js/main.447efefc.js",
     "static/media/me.png": "/portofolio-website/static/media/me.0a2e1bee66ef40057356.png",
     "static/media/CVMBKM.pdf": "/portofolio-website/static/media/CVMBKM.ae4be1a2208284054dc2.pdf",
@@ -12,11 +12,11 @@
     "static/media/EmokaKatalog.png": "/portofolio-website/static/media/EmokaKatalog.9e086875000fbd5eb2b7.png",
     "static/media/RenscoApp.png": "/portofolio-website/static/media/RenscoApp.563423b17c09c2d5dbf4.png",
     "index.html": "/portofolio-website/index.html",
-    "main.9e485601.css.map": "/portofolio-website/static/css/main.9e485601.css.map",
+    "main.3cce0550.css.map": "/portofolio-website/static/css/main.3cce0550.css.map",
     "main.447efefc.js.map": "/portofolio-website/static/js/main.447efefc.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e485601.css",
+    "static/css/main.3cce0550.css",
     "static/js/main.447efefc.js"
   ]
 }
