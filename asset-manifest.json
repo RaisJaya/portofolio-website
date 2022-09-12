@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portofolio-website/static/css/main.ce2bde18.css",
-    "main.js": "/portofolio-website/static/js/main.7e3fbfd8.js",
+    "main.css": "/portofolio-website/static/css/main.5e5dde35.css",
+    "main.js": "/portofolio-website/static/js/main.dada9e1e.js",
     "static/media/me.png": "/portofolio-website/static/media/me.0a2e1bee66ef40057356.png",
     "static/media/me-about.jpg": "/portofolio-website/static/media/me-about.dc65313c9b56e93dafd9.jpg",
     "static/media/DS1.png": "/portofolio-website/static/media/DS1.16fe22e6e189dd17f05f.png",
@@ -10,13 +10,13 @@
     "static/media/BussinesStrategy.png": "/portofolio-website/static/media/BussinesStrategy.a9ca575f55a064f7d4a1.png",
     "static/media/EmokaKatalog.png": "/portofolio-website/static/media/EmokaKatalog.9e086875000fbd5eb2b7.png",
     "static/media/RenscoApp.png": "/portofolio-website/static/media/RenscoApp.563423b17c09c2d5dbf4.png",
-    "static/media/cv.pdf": "/portofolio-website/static/media/cv.66344553b3815b8f8dd9.pdf",
+    "static/media/cv.pdf": "/portofolio-website/static/media/cv.0e9cee43e0bb41d033cd.pdf",
     "index.html": "/portofolio-website/index.html",
-    "main.ce2bde18.css.map": "/portofolio-website/static/css/main.ce2bde18.css.map",
-    "main.7e3fbfd8.js.map": "/portofolio-website/static/js/main.7e3fbfd8.js.map"
+    "main.5e5dde35.css.map": "/portofolio-website/static/css/main.5e5dde35.css.map",
+    "main.dada9e1e.js.map": "/portofolio-website/static/js/main.dada9e1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce2bde18.css",
-    "static/js/main.7e3fbfd8.js"
+    "static/css/main.5e5dde35.css",
+    "static/js/main.dada9e1e.js"
   ]
 }
